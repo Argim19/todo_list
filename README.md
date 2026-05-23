@@ -18,6 +18,8 @@ A modern and interactive task management web application built with HTML, CSS, J
 
 ## Project Structure
 
+```
+
 todo_list
 ├── backend
 | ├── db.json
@@ -37,6 +39,10 @@ todo_list
 | | └── style.css
 | └── vite.config.js
 └── README.md
+
+```
+
+---
 
 ## Technologies Used
 
